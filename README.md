@@ -1,4 +1,4 @@
-[Captura_app1](/public)
-[Captura_app2_api](/public)
-[Captura_app2_api_productos](/public)
-[Captura_app2_api_productos_1](/public)
+![alt text](Captura_app1.png)
+![alt text](Captura_app2_api.png)
+![alt text](Captura_app2_api_productos.png)
+![alt text](Captura_app2_api_productos_1.png)
